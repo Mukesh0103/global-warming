@@ -1,0 +1,17 @@
+@media(max-width: 767px) {
+    .head-1 {
+        font-size: 40px;
+    }
+    .head-2 {
+        font-size: 24px;
+    }
+    .paragraph {
+        font-size: 15px;
+    }
+    .global-warming__article--1, .earth__article {
+        left: 40px;
+    }
+    .global-warming__article--2, .climate-change__article, .sea-level__article, .plastic-ocean__article {
+        padding: 40px;
+    }
+}

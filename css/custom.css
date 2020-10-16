@@ -1,0 +1,36 @@
+.global-warming, .earth {
+    position: relative;
+}
+
+.global-warming__img, .climate-change__img, .sea-level__img, .plastic-ocean__img, .earth__img {
+    width: 100%;
+    object-fit: cover;
+}
+
+.global-warming__article--1 {
+    position: absolute;
+    top: 160px;
+    left: 80px;
+    color: #fff;
+    width: 248px;
+}
+
+.earth__article {
+    position: absolute;
+    top: 242px;
+    left: 80px;
+    color: #fff;
+    width: 275px;
+}
+
+.global-warming__article--2, .climate-change__article, .sea-level__article, .plastic-ocean__article {
+    padding: 60px 80px;
+}
+
+.global-warming__quote, .climate-change__quote, .sea-level__quote, .plastic-ocean__quote {
+    margin: 54px 0 10px;
+}
+
+.global-warming__author, .climate-change__author, .sea-level__author, .plastic-ocean__author {
+    text-align: right;
+}
